@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 import HandleShare from "./pages/Share";
 import CreateSample from "./pages/CreateSample";
 import EditSample from "./pages/EditSample";
-import "./A2StyleGuide/starterstyles.css";
+import "./styles/starterstyles.css";
 
 function App() {
   return (
