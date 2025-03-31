@@ -3,16 +3,6 @@
 ## Overview
 The **SongTrax Web App** is the first part of the Cross-Platform Project, designed to create an interactive web application using **React**. This web app will allow users to create music samples and share them to specific locations using a RESTful API. The project serves as a foundation for the second part, where a **React Native** mobile app will be developed to interact with these shared music samples.
 
-## Learning Objectives
-By completing this project, you will:
-- Gain intermediate proficiency in **functional programming** using JavaScript.
-- Develop a **responsive React web application** that adapts to different screen sizes.
-- Integrate **RESTful API communication** to create, read, update, and delete resources.
-- Implement **UI/UX best practices** for a cross-platform experience.
-- Build a structured and modularized **React component architecture**.
-- Utilize **Tone.js** for generating and playing back audio samples.
-- Develop and execute **testing strategies** for security, performance, and design evaluation.
-
 ## Features & Functionality
 ### 1. List of Samples Page
 - Displays a list of all music samples associated with the user's API key.
@@ -93,18 +83,3 @@ Ensure you have the following installed:
 - Verify **API requests** and **error handling**.
 - Ensure **responsiveness** across different devices.
 - Conduct **peer review** and **tutor consultations** in Week 9.
-
-## Final Submission
-- **Week 9**: Near-complete version demo.
-- **Week 10**: Final Web App submission to Gradescope (ZIP file format).
-
-## Marking Criteria
-Your project will be graded on:
-- **Attention to Detail**: UI, responsiveness, and functionality.
-- **React Web Usage**: Component architecture, state management, and hooks.
-- **Integrations & Markup**: API communication and semantic HTML.
-- **Code Style**: Readability, modularization, and maintainability.
-
----
-### 🚀 Happy Coding! 🎵
-
