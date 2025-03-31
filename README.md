@@ -65,6 +65,35 @@ Ensure you have the following installed:
    http://localhost:3000
    ```
 
+## Screenshots
+### List of Sample Page
+- Displays a list of songs created.
+- Users can preview created samples.
+<p align="center">
+  <img src = images/List_of_samples.png alt = "List_of_samples" width = 20% >
+<p>
+<p align="center">
+  List of samples Screenshots
+<p>
+   
+### Edit Sample Page
+- Users can edit and save samples.
+<p align="center">
+  <img src = images/Edit_sample.png alt = "Edit_sample" width = 20% >
+<p>
+<p align="center">
+  Edit sample Screenshots
+<p>
+   
+### Share Sample Page
+- Users can share the sample.
+<p align="center">
+  <img src = images/Share_sample.png alt = "Share_sample" width = 20% >
+<p>
+<p align="center">
+  Share sample Screenshots
+<p>
+
 ## Dependencies
 - **React Router**: For managing navigation.
 - **Tone.js**: For generating and playing music samples.
