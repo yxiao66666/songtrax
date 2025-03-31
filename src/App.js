@@ -23,7 +23,7 @@ function App() {
           {/* Header logo */}
           <div class="header-logo">
             <h2>
-              <a href="/" class="header-icon-link">
+              <a href="/SongTrax/" class="header-icon-link">
                 SongTrax
               </a>
             </h2>
