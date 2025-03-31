@@ -1,4 +1,4 @@
-# songtrax
+# Songtrax
 A web app developed with JavaScript. 
 
 # Getting Started with Create React App
