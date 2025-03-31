@@ -10,7 +10,7 @@ import "./styles/starterstyles.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/songtrax">
       <div>
         {/* Head section */}
         <head>
