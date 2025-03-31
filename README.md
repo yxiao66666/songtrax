@@ -78,8 +78,9 @@ Ensure you have the following installed:
    ```
 2. Deploy to a static hosting service (e.g., **Vercel, Netlify, GitHub Pages**).
 
-## Testing
-- Implement **unit tests** and **integration tests** for components.
-- Verify **API requests** and **error handling**.
-- Ensure **responsiveness** across different devices.
-- Conduct **peer review** and **tutor consultations** in Week 9.
+
+## License
+This project is licensed under the MIT License.
+
+## Contributors
+- [yxiao66666](https://www.linkedin.com/in/yang~xiao/) 
