@@ -176,5 +176,4 @@ export {
   getLocations,
   SampleToLocation,
   UpdateSampleToLocation,
-  getRatings,
 };
