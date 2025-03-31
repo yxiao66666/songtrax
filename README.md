@@ -70,7 +70,7 @@ Ensure you have the following installed:
 - Displays a list of songs created.
 - Users can preview created samples.
 <p align="center">
-  <img src = images/List_of_samples.png alt = "List_of_samples" width = 40% >
+  <img src = images/List_of_samples.png alt = "List_of_samples" width = 60% >
 <p>
 <p align="center">
   List of samples Screenshots
@@ -79,7 +79,7 @@ Ensure you have the following installed:
 ### Edit Sample Page
 - Users can edit and save samples.
 <p align="center">
-  <img src = images/Edit_sample.png alt = "Edit_sample" width = 40% >
+  <img src = images/Edit_sample.png alt = "Edit_sample" width = 60% >
 <p>
 <p align="center">
   Edit sample Screenshots
@@ -88,7 +88,7 @@ Ensure you have the following installed:
 ### Share Sample Page
 - Users can share the sample.
 <p align="center">
-  <img src = images/Share_sample.png alt = "Share_sample" width = 40% >
+  <img src = images/Share_sample.png alt = "Share_sample" width = 60% >
 <p>
 <p align="center">
   Share sample Screenshots
