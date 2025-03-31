@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/songtrax/static/css/main.e6c13ad2.css",
-    "main.js": "/songtrax/static/js/main.681949bc.js",
+    "main.js": "/songtrax/static/js/main.718115c5.js",
     "static/js/787.bacaf852.chunk.js": "/songtrax/static/js/787.bacaf852.chunk.js",
     "static/media/C3.mp3": "/songtrax/static/media/C3.499449e3161c38c12756.mp3",
     "static/media/D3.mp3": "/songtrax/static/media/D3.0fbe2093cedfb5a50fa4.mp3",
@@ -19,11 +19,11 @@
     "static/media/G4.mp3": "/songtrax/static/media/G4.785a39bb9b9d17ad6a8a.mp3",
     "index.html": "/songtrax/index.html",
     "main.e6c13ad2.css.map": "/songtrax/static/css/main.e6c13ad2.css.map",
-    "main.681949bc.js.map": "/songtrax/static/js/main.681949bc.js.map",
+    "main.718115c5.js.map": "/songtrax/static/js/main.718115c5.js.map",
     "787.bacaf852.chunk.js.map": "/songtrax/static/js/787.bacaf852.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.681949bc.js"
+    "static/js/main.718115c5.js"
   ]
 }
