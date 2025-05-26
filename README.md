@@ -112,4 +112,4 @@ Ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ## Contributors
-- [yxiao66666](https://www.linkedin.com/in/yang~xiao/) 
+- [yxiao66666](https://www.linkedin.com/in/yxiao66666/) 
